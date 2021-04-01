@@ -1,0 +1,208 @@
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .logo {
+       margin: 2px 0px;
+       width: 100%;
+       float: left;
+   }
+   .navbar-toggle .icon-bar {
+       background: none repeat scroll 0 0 #fff;
+   }
+   .block-slider {
+       display: none;
+   }
+   .search_box {
+       background: rgb(243, 243, 243) none repeat scroll 0 0;
+       position: inherit;
+       width: 100%;
+       display: block;
+   }
+   .search_box h1 {
+       color: #000;
+       font-size: 21px;
+       margin: 0;
+       padding: 10px 0 15px;
+   }
+   .form-search .form-group input {
+       border-radius: 10px 0 0 10px;
+       font-size: 15px;
+       min-height: 33px;
+       padding: 5px 30px 5px 30px;
+       right: 0;
+       width: 79%;
+   }
+   .form-search .form-group .fa-search {
+       color: #0a2a6e;
+       font-size: 14px;
+       left: 10px;
+       top: 8px;
+   }
+   .form-search .form-group span button {
+       font-size: 15px;
+       min-height: 33px;
+   }
+   .search_box .form-search {
+       width: 100%;
+   }
+   .center_content {
+       background: #fff;
+       margin: 10px auto;
+   }
+   .primary, .primary1, .primary2, .primary3 {
+   height:200px;}
+   .thumbnails {
+       text-align: center;
+   }
+   .thumbnail, .thumbnail1, .thumbnail2, .thumbnail3 {
+       padding: 1px;
+       display: inline-block;
+   }
+   .thumbnail-image {
+       width: 40px;
+       height: 40px;
+   }
+   .product {
+       margin-bottom: 0;
+   }
+   .single-product h2 {
+       height: auto;
+   }
+   .single-product h2 a {
+       font-size: 12px;
+       line-height: 13px;
+   }
+   .product-carousel-price {
+       font-size: 12px;
+   }
+   .pro_more_detail .submit {
+       font-size: 14px;
+       padding: 6px 15px;
+   }
+   .nopad-right {
+       padding-right: 15px;
+   }
+   .nopad-left {
+       padding-left: 15px;
+   }
+   .weakly_block > h5 {
+       font-size: 19px;
+   }
+   .quick_ling h5 {
+       font-size: 19px;
+   }
+   .new_letr {
+       margin-bottom: 20px;
+   }
+   .power_by img {
+       width: 100px;
+       float: none;
+   }
+   h4.product_header {
+       margin: 10px 0;
+       font-size: 16px;
+       font-weight: bold;
+   }
+   .navbar-toggle {
+       border-color: #fff;
+       float: right !important;
+       margin: 10px auto;
+   }
+   .user-menu li a {
+       display: block;
+       font-size: 12px;
+       padding: 2px;
+       float: left;
+   }
+   .user-menu li {
+       display: none;
+       margin-right: 10px;
+       float: left;
+       width: 100%;
+       text-align: center;
+   }
+   .header-right .user-menu li {
+       display: contents;
+       margin-right: 10px;
+       float: left;
+       width: auto;
+   }
+   .menubar ul.nav.navbar-nav {
+       float: left;
+       margin-top: 0;
+       width: 100%;
+   }
+   .block-slider .caption-group .title {
+       font-size: 12px;
+       line-height: 22px;}
+   
+   .block-slider .caption-group .subtitle{
+   font-size: 12px;}
+   .block-slider .caption-group .button-radius {
+       margin-top: 0px;
+   }
+   .button-radius{
+   display: none !important;}
+   
+   .section-title {
+     font-size: 18px !important;
+     margin: 0px;
+   } 
+   .custom_content h2 {
+       font-size: 17px !important;
+       margin-bottom: 25px !important;
+   } 
+   video {
+       margin: 20px 0px !important;
+   }
+   .footer-menu {
+        margin: 10px 0px !important;
+   }
+   .footer-top-area {
+       padding: 0px !important;
+   }
+   .new_letr2 .pass_input {
+       font-size: 15px;
+       float: left;
+       width: 70%;
+       max-width: initial;
+   }
+   .new_letr.new_letr2 button {
+       float: left;
+       width: auto;
+   }
+       }
+   @media only screen and (min-width: 768px) and (max-width: 1023px) {
+       .new_letr .pass_input {
+       width: 65%;
+   }
+   .new_letr .subscribe_btn {
+       font-size: 14px;
+       padding: 0 8px;
+   }
+       .weakly_block > h5 {
+       font-size: 16px;
+   }
+   .quick_ling h5 {
+       font-size: 16px;
+   }
+       h4.product_header {
+       margin: 20px 0;
+       font-size: 18px;
+   }
+   .primary, .primary1, .primary2, .primary3 {
+   height: 250px;}
+   
+   .thumbnails {
+       text-align: center;
+   }
+   .thumbnail, .thumbnail1, .thumbnail2, .thumbnail3 {
+       padding: 1px;
+       display: inline-block;
+   }
+   .thumbnail-image {
+       width: 40px;
+       height: 40px;
+   }
+   .product {
+       margin-bottom: 0;
+       }
+       }
